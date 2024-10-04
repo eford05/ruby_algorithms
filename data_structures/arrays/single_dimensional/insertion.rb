@@ -10,7 +10,7 @@ end
 
 # Insert value
 # Space Complexity: Constant O(1)
-# Time Complexity: O(1)
+# Time Complexity: Constant O(1)
 def insertion (arr, location, value)
   arr[location] = value 
 end
