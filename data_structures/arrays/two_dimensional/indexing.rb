@@ -25,3 +25,4 @@ two_d_indexing(matrix_2.matrix, 1, 2)
 puts "Matrix 1"
 matrix_3.print_matrix()
 two_d_indexing(matrix_3.matrix, 2, 3)
+
